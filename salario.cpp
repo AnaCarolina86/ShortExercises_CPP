@@ -6,13 +6,13 @@ using namespace std;
 int main(){
 
 cout << fixed << setprecision(2);
-int numb, horas;
-float valor;
+int numb, hours;
+float value;
 
 	cin>>numb;
-	cin>>horas;
-	cin>>valor;
+	cin>>hours;
+	cin>>value;
 	
 	cout<< "NUMBER = " << numb << endl;
-	cout<< "SALARY = U$ " << horas*valor << endl;
+	cout<< "SALARY = U$ " << hours*value << endl;
 }
