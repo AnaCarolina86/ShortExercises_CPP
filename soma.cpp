@@ -10,7 +10,7 @@ int number1;
 int number2;
 int sum;
 
-	cin>>number1; //le o primeiro numero
+	cin>>number1; //read the first number
 	cin>>number2;
 	
 	sum = number1 + number2;
