@@ -1,2 +1,2 @@
 # MiniExercises
- They are some very simple problems from the website URI Online Judge that I solved
+ They are some very simple problems from the website URI Online Judge that I solved when I was learning C++.
